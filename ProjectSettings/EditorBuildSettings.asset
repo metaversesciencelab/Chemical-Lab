@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleSceneCopy.unity
+    guid: f4dd03a4c52693b40b5b45b9a91ccf9a
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 896222a8c44cff145a35000fe9a1ca1e,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2d741ebc7c3c6f449a7ca8408305ed00,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 930a264bd4640bb40bea65470c0c1042,
+      type: 2}
